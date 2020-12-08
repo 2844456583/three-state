@@ -1,0 +1,48 @@
+blockquote,
+body,
+dd,
+dir,
+dl,
+fieldset,
+figure,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+input,
+legend,
+menu,
+ol,
+optgroup,
+p,
+pre,
+tbody,
+td,
+textarea,
+tfoot,
+th,
+thead,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+li {
+  list-style: none;
+  color: black;
+}
+
+a {
+  color: black;
+}
+/*# sourceMappingURL=common.css.map */
